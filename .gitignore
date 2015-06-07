@@ -1,0 +1,12 @@
+# text files
+*.txt
+
+# doc files
+*.docx
+*.docs
+
+!Questions.txt
+
+# directory
+other/
+yaymukund/
